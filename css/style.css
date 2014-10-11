@@ -1,0 +1,59 @@
+body {
+    background-image:url('http://nickshell1983.files.wordpress.com/2009/12/outer-space-vol1.jpg');
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+h1 {
+	margin-left:5%;
+}
+
+.galaxy {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px; 
+}
+
+#galaxy1 {
+	background: green;
+}
+
+#galaxy2 {
+	background: red;
+}
+
+#galaxy3 {
+	background: purple;
+}
+
+#galaxy4 {
+	background: yellow;
+}
+
+#galaxy5 {
+	background: orange;
+}
+
+#galaxy6 {
+	background: teal;
+}
+
+.hr {
+    padding-bottom: 15px;
+    width: 25%;
+    float: left;
+}
+
+.line1 {
+    width: 65%;
+    float: left;
+    margin-top:30%;
+    border-bottom: 5px solid white;
+}
+
+.line2 {
+    width: 100%;
+    float: left;
+    margin-top:30%;
+    border-bottom: 5px solid white;
+}
